@@ -1,7 +1,7 @@
 # EARS
 Easy Album Rating System
 
-This ia program I created and have been slowly refining and making easier to use and navigate.
+This is a program I created and have been slowly refining and making easier to use and navigate.
 
 DISCLAIMER: 
 I AM NOT A PROFESSIONAL PROGRAMMER 
