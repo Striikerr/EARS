@@ -11,6 +11,9 @@ Things to keep in mind
 3) Enjoy music!
 
 
+If for some the database seems broken (or does break), delete the json file and let it make a new one, that should fix any issues. 
+
+
 Planned things for future versions (if i ever even do any)
 
 Better overall navigation (half done this with V1.1)
