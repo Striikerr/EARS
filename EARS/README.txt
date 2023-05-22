@@ -1,5 +1,5 @@
 //// Author: ShadeRD
-//// Version: 1.0
+//// Version: 1.1
 //// Name: EARS (Easy Album Rating System)
 //// Language: Python | English
 
@@ -13,5 +13,5 @@ Things to keep in mind
 
 Planned things for future versions (if i ever even do any)
 
-Better overall navigation
+Better overall navigation (half done this with V1.1)
 An actual UI or something similar.
