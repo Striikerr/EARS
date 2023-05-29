@@ -24,4 +24,5 @@ All you need to do to keep your database and config settings is copy the album_d
 3. Drag and drop the new files into the folder you have EARS located. (Overwriting where appropriate)
 4. If you moved .json and ini out of the folder, copy it back into the EARS folder.
 5. Launch the program and check that you can correctly search the database and add new albums.
+
 If you feel like being extra safe, copying your .json and ini into the new release will likely always be safer, as you can always revert back to the previous version without potentially breaking anything. Only issue is it makes an extra folder.
