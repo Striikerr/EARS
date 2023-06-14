@@ -11,7 +11,7 @@ I simply use this for my own benefit, and have uploaded it onto here incase anyo
 
 
 Currently the program allows you to rate albums using either 0-5, 0-10, or 0-100 rating scales, it also has a function that allows you to add a very slight extra score advantage to longer albums. 
-There is a settings "menu" included inside the program, but if you're feeling adventurous you can always toy about in the .config file, although it's unlikely adding anything will end up doing helpful for the program since a lot of the things for this are hard coded. You can also display and export files to a .json file.
+There is a settings "menu" included inside the program, but if you're feeling adventurous/knowledgeable you can always toy about in the .config file and included .py file to add your own features or fix any bugs you find, although if you end up breaking anything and the code isn't exactly to what I have on my machine it's unlikely I'd be able to help you. You can also search an indluded database of all your scores and export them to a .json file.
 
 I doubt i will get round to many, but if you have any ideas or find any issues, feel free to make posts in their respective sections on the github page.
 
